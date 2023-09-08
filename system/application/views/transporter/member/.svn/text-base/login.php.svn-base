@@ -1,0 +1,325 @@
+<style type="text/css">
+div#container
+{
+   top:20px;
+   position: absolute;
+   left: 50%;
+   width: 994px;
+   margin-left: -497px;
+}
+</style>
+<script type="text/javascript" src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/lacak_tmpl1_contact/jquery-1.2.6.min.js"></script>
+<link rel="stylesheet" type="text/css" href="<?=base_url();?>system/application/views/lacakmobil_tmpl1/lacak_tmpl1_contact/style.css" />
+<script>
+			<!--
+			
+				jQuery(document).ready(
+					function()
+					{																														
+       					var zIndexNumber = 1000;
+       					// Put your target element(s) in the selector below!
+       					jQuery("div").each(function() {
+               				jQuery(this).css('zIndex', zIndexNumber);
+               				zIndexNumber += 10;
+       					})
+       					
+       					jQuery("#container").css("margin-top", -130);
+					}
+				)
+
+				function frmlogin_onsubmit()
+				{
+					jQuery("#dvwait").show();
+					jQuery.post("<?=base_url();?>member/dologin", jQuery("#frmlogin").serialize(),
+						function(r)
+						{
+							jQuery("#dvwait").hide();
+							if (r.error)
+							{
+								alert(r.message);
+								return;
+							}
+
+							location = r.redirect;
+						}
+						, "json"
+					);
+					return false;
+				}
+			-->
+			</script>
+			
+<script type="text/javascript">                                         
+$(document).ready(function(){
+$("#ajax-contact-form").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "<?=base_url();?>system/application/views/lacakmobil_tmpl1/lacak_tmpl1_contact/contact.php",
+   data: str,
+   success: function(msg){
+    
+$("#note").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Pesan Anda Telah Terkirim. Terima Kasih!</div>';
+$("#fields").hide();
+timerefresh(3000);
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+});
+
+ </script>  
+<script type="text/javascript">
+
+function timerefresh(timeout) {
+setTimeout("location.reload(true);",timeout);
+}
+
+function contact_show(){
+document.getElementById('contact').style.visibility = 'visible';
+document.getElementById('container').style.visibility = 'hidden';
+}
+
+function close_contact(){
+document.getElementById('contact').style.visibility = 'hidden';
+document.getElementById('container').style.visibility = 'visible';
+}
+</script>			
+
+			
+<body bgcolor="#000000" text="#000000">
+<div id="container">
+
+<div id="wb_Image1" style="position:absolute;left:190px;top:132px;width:638px;height:530px;z-index:1;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/background_new.jpg" id="Image1" alt="" align="top" border="0" style="width:638px;height:530px;"></div>
+
+<div id="wb_Image2" style="position:absolute;left:189px;top:155px;width:273px;height:54px;z-index:41;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/logo_01.png" id="Image2" alt="" align="top" border="0" style="width:273px;height:54px;"></div>
+
+<div id="wb_Image5" style="position:absolute;left:535px;top:231px;width:285px;height:115px;z-index:6;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/back_login.png" id="Image5" alt="" align="top" border="0" style="width:285px;height:115px;"></div>
+
+<div id="wb_Image4" style="position:absolute;left:588px;top:191px;width:26px;height:26px;z-index:41;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/sms.png" id="Image4" alt="" align="top" border="0" style="width:26px;height:26px;"></div>
+
+<div id="wb_Image4" style="position:absolute;left:715px;top:196px;width:20px;height:20px;z-index:41;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/tlp.png" id="Image4" alt="" align="top" border="0" style="width:20px;height:20px;"></div>
+
+<div id="wb_Text1" style="position:absolute;left:707px;top:179px;width:120px;height:14px;z-index:41;" align="left">
+<font style="font-size:11px" color="#FFFFFF" face="Arial"><b>CUSTOMER SERVICE</b></font></div>
+
+<div id="wb_Text2" style="position:absolute;left:620px;top:197px;width:84px;height:14px;z-index:4;" align="left">
+<font style="font-size:11px" color="#FFFFFF" face="Arial"><b>0877 777 97 940</b></font></div>
+
+<div id="wb_Text2" style="position:absolute;left:744px;top:197px;width:84px;height:14px;z-index:4;" align="left">
+<font style="font-size:11px" color="#FFFFFF" face="Arial"><b>0855 820 84 84</b></font></div>
+
+
+<div id="wb_Text3" style="position:absolute;left:544px;top:262px;width:68px;height:14px;z-index:7;" align="left">
+<font style="font-size:11px" color="#FFFFFF" face="Arial"><b>Username :</b></font></div>
+
+<div id="wb_Text4" style="position:absolute;left:544px;top:286px;width:68px;height:14px;z-index:8;" align="left">
+<font style="font-size:11px" color="#FFFFFF" face="Arial"><b>Password :</b></font></div>
+
+<div id="wb_Image21" style="position:absolute;left:180px;top:121px;width:54px;height:530px;z-index:39;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/leftshadow.png" id="Image21" alt="" align="top" border="0" style="width:54px;height:530px;"></div>
+
+<div id="wb_Image11" style="position:absolute;left:189px;top:664px;width:638px;height:53px;z-index:22;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/footer.png" id="Image11" alt="" align="top" border="0" style="width:638px;height:53px;"></div>
+
+<form id="frmlogin" onSubmit="javascript: return frmlogin_onsubmit(this)">
+<div id="dvusername" style="position:absolute;left:610px;top:257px;">
+		<input type="text" name="username" id="username" value="" class="formshort" style="width:117px;font-family:Courier New;font-size:11px;">
+	</div>
+	<div id="dvuserpass" style="position:absolute;left:610px;top:280px;">
+		<input type="password" name="userpass" id="userpass" value="" class="formshort" style="width:117px;font-family:Courier New;font-size:11px;">
+	</div>
+	<div id="dvbtnlogin" style="position:absolute;left:656px;top:300px;">
+		<input type="submit" value="Login" style="width:73px;height:25px;background-color:#000000;color:#FFE4E1;font-family:Arial;font-size:11px;">
+	</div>
+	<div id="dvwait" style="position:absolute;left:558px;top:300px;display: none;">
+		<img src="<?=base_url();?>assets/images/anim_wait.gif" border="0" />
+	</div>
+	<?php if ($this->config->item("showmessagelogin")) { ?>
+	<div id="dvwait" style="position:absolute;left:228px;top:405px; width: 520px; text-align: center;">
+		<font face="Tahoma" color="#ff0000">Mohon maaf dikarenakan ada maintenance server, untuk sementara <br /><b>http://www.lacak-mobil.com dan sub domainnya</b><br /> dialihkan ke <br /><b>http://119.235.20.251</b></font>		
+	</div>
+	<?php } ?>
+	</form>
+
+
+<div id="wb_Image6" style="position:absolute;left:538px;top:370px;width:14px;height:13px;z-index:12;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/feature.png" id="Image6" alt="" align="top" border="0" style="width:14px;height:13px;"></div>
+
+<div id="wb_Text5" style="position:absolute;left:557px;top:368px;width:117px;height:15px;z-index:13;" align="left">
+<font style="font-size:11px" color="#FF6820" face="Arial"><b>Best</b></font><font style="font-size:11px" color="#000000" face="Arial"><b> Feature System</b></font></div>
+
+<div id="wb_Image7" style="position:absolute;left:538px;top:392px;width:13px;height:13px;z-index:14;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image7" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text6" style="position:absolute;left:559px;top:391px;width:242px;height:28px;z-index:15;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Online Realtime Tracking melalui Web Tracking<br>
+( Web Browser ), Hand Phone, Google Earth</b></font></div>
+
+<div id="wb_Image8" style="position:absolute;left:538px;top:426px;width:13px;height:13px;z-index:16;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image8" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text7" style="position:absolute;left:559px;top:425px;width:212px;height:28px;z-index:17;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Data Record Overspeed ( Pembatasan Kecepatan Mobil )</b></font></div>
+
+<div id="wb_Image9" style="position:absolute;left:538px;top:459px;width:13px;height:13px;z-index:18;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image9" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text8" style="position:absolute;left:559px;top:458px;width:192px;height:14px;z-index:19;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Mematikan Mesin Mobil Melalui SMS</b></font></div>
+
+<div id="wb_Image10" style="position:absolute;left:538px;top:480px;width:13px;height:13px;z-index:20;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image10" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text9" style="position:absolute;left:559px;top:479px;width:186px;height:14px;z-index:21;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Parking Time Dan Work Hour Report</b></font></div>
+
+<div id="wb_Image13" style="position:absolute;left:538px;top:501px;width:13px;height:13px;z-index:23;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image13" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text10" style="position:absolute;left:559px;top:500px;width:191px;height:14px;z-index:24;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Data Record History Perjalanan Mobil</b></font></div>
+
+<div id="wb_Image14" style="position:absolute;left:538px;top:567px;width:13px;height:13px;z-index:25;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image14" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text11" style="position:absolute;left:559px;top:566px;width:239px;height:28px;z-index:26;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Mendengarkan Percakapan Yang Ada Di Dalam <br>
+Mobil</b></font></div>
+
+<div id="wb_Image15" style="position:absolute;left:538px;top:521px;width:13px;height:13px;z-index:27;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image15" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text12" style="position:absolute;left:559px;top:520px;width:251px;height:42px;z-index:28;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>POI ( Point Of Interest ) Tempat-Tempat Penting Seperti SPBU, Rumah Sakit, Kantor Polisi, Dll Dan Akan Selalu Di Update</b></font></div>
+
+<div id="wb_Image16" style="position:absolute;left:538px;top:596px;width:13px;height:13px;z-index:29;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image16" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text13" style="position:absolute;left:559px;top:596px;width:91px;height:14px;z-index:30;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Geofence Setting</b></font></div>
+
+<div id="wb_Image17" style="position:absolute;left:538px;top:617px;width:13px;height:13px;z-index:31;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/list.png" id="Image17" alt="" align="top" border="0" style="width:13px;height:13px;"></div>
+
+<div id="wb_Text14" style="position:absolute;left:559px;top:616px;width:95px;height:14px;z-index:32;" align="left">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Lifetime Warranty</b></font></div>
+
+<div id="wb_Image18" style="position:absolute;left:357px;top:590px;width:167px;height:41px;z-index:33;" align="left">
+<a href="javascript: contact_show()">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/infolebihlanjut.png" id="Image18" alt="" align="top" border="0" style="width:167px;height:41px;">
+</a>
+</div>
+
+<div id="wb_Image19" style="position:absolute;left:195px;top:370px;width:14px;height:13px;z-index:34;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/feature.png" id="Image19" alt="" align="top" border="0" style="width:14px;height:13px;"></div>
+
+<div id="wb_Text15" style="position:absolute;left:214px;top:368px;width:124px;height:15px;z-index:35;" align="left">
+<font style="font-size:11px" color="#000000" face="Arial"><b>www.</b></font><font style="font-size:11px" color="#FF6820" face="Arial"><b>lacak-mobil</b></font><font style="font-size:11px" color="#000000" face="Arial"><b>.com</b></font></div>
+
+<div id="wb_Text16" style="position:absolute;left:195px;top:387px;width:316px;height:126px;z-index:36;" align="justify">
+<font style="font-size:10px" color="#000000" face="Arial"><b>Sebuah solusi sistem pelacakan posisi mobil secara Real-Time </b></font><font style="font-size:10px" color="#000000" face="Arial"><b>yang merupakan perpaduan antara Information Technology (IT) dan Teknologi Global Positioning System (GPS), yang dihadirkan untuk memenuhi kebutuhan keamanan asset mobil anda, yang bertujuan agar anda selalu dapat memantau posisi dan melakukan pelacakan mobil anda kapanpun dan dimanapun anda berada, apabila terjadi tindakan pencurian dan penggadaian terhadap mobil anda.</b></font></div>
+
+<div id="wb_Image22" style="position:absolute;left:131px;top:555px;width:186px;height:212px;z-index:40;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/car.png" id="Image22" alt="" align="top" border="0" style="width:186px;height:212px;"></div>
+
+<div id="wb_Text18" style="position:absolute;left:356px;top:485px;width:99px;height:14px;z-index:42;" align="left">
+<font style="font-size:11px" color="#009300" face="Arial"><b>ONLINE SUPPORT</b></font></div>
+
+<div style="position:absolute;left:356px;top:505px;width:99px;height:14px;z-index:42;" align="left">
+<a href="ymsgr:sendIM?eddiegunasadhega">
+<img border=0 src="http://opi.yahoo.com/online?u=eddiegunasadhega&amp;m=g&amp;t=1"/></a>
+</div>
+
+<div style="position:absolute;left:356px;top:530px;width:99px;height:14px;z-index:42;" align="left">
+<a href="ymsgr:sendIM?khanza_audah">
+<img border=0 src="http://opi.yahoo.com/online?u=khanza_audah&amp;m=g&amp;t=1"/></a>
+</div>
+
+<div style="position:absolute;left:356px;top:555px;width:99px;height:14px;z-index:42;" align="left">
+<a href="ymsgr:sendIM?jtriyadi1981">
+<img border=0 src="http://opi.yahoo.com/online?u=jtriyadi1981&amp;m=g&amp;t=1"/></a>
+</div>
+</div>
+
+
+<div id="contact" style="visibility:hidden";>
+<div id="back_contact" style="position:absolute;left:397px;top:67px;z-index:1;">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/back_contact.png" id="back_contact" alt="" align="top" border="0" style="height:550px;">
+</div>
+<center>
+<center>
+<div id="close" style="position:absolute;left:897px;top:72px;z-index:1;">
+<a href="javascript:close_contact()">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/close.png" id="close" alt="" align="top" border="0">
+</a>
+</div>
+
+<div id="wb_image2" style="position:absolute;left:510px;top:5px;width:273px;height:54px;z-index:41;" align="left">
+<img src="<?=base_url();?>system/application/views/lacakmobil_tmpl1/logo_01.png" id="Image2" alt="" align="top" border="0" style="width:273px;height:54px;">
+</div>
+<br />
+<h4><font color="white">Untuk Informasi Lebih Lanjut Anda Bisa Menghubungi Kami<br />
+Dengan Mengisi FORM Di Bawah Ini.</h3></font>
+<div style="position:absolute;left:550px;top:107px;width:99px;height:14px;z-index:42;" align="left">
+<a href="ymsgr:sendIM?khanza_audah">
+<img border=0 src="http://opi.yahoo.com/online?u=khanza_audah&amp;m=g&amp;t=1"/></a>
+</div>
+
+<div style="position:absolute;left:700px;top:107px;width:99px;height:14px;z-index:42;" align="left">
+<a href="ymsgr:sendIM?jtriyadi1981">
+<img border=0 src="http://opi.yahoo.com/online?u=jtriyadi1981&amp;m=g&amp;t=1"/></a>
+</div>
+
+</center>
+
+<div align="left" style="position:absolute;left:410px;top:132px;width:638px;height:530px;width: 500px;">
+<fieldset class="info_fieldset"><legend>Contact</legend>
+<div id="note"></div>
+<div id="fields">
+<form id="ajax-contact-form" action="javascript:alert('success!');">
+<label>Nama*</label><INPUT class="textbox" type="text" name="name" value=""><br />
+<label>Perusahaan</label><INPUT class="textbox" type="text" name="perusahaan" value=""><br />
+<label>Jabatan</label><INPUT class="textbox" type="text" name="jabatan" value=""><br />
+<label>E-Mail*</label><INPUT class="textbox" type="text" name="email" value=""><br />
+<label>Telp</label><INPUT class="textbox" type="text" name="telp" value=""><br />
+<label>HP</label><INPUT class="textbox" type="text" name="hp" value=""><br />
+<label>Alamat</label><TEXTAREA class="textbox" NAME="alamat" ROWS="3" COLS="25"></TEXTAREA><br />
+<label>Subject</label><INPUT class="textbox" type="text" name="subject" value=""><br />
+<label>Comments*</label><TEXTAREA class="textbox" NAME="message" ROWS="5" COLS="25"></TEXTAREA><br />
+<label>* Wajib Diisi</label><br />
+<label>&nbsp;</label><INPUT class="button" type="submit" name="submit" value="Send Message">
+</form>
+</div>
+</fieldset>
+
+</div>
+
+
+ </center>
+</div>

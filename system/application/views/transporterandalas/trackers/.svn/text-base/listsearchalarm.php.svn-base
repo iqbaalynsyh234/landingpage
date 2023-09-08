@@ -1,0 +1,25 @@
+		<table width="100%" cellpadding="3" class="tablelist">
+			<thead>
+				<tr>
+					<th width="2%">No.</td>
+					<th width="20%"><?=$this->lang->line("ldatetime"); ?></th>
+					<th width="50%"><?=$this->lang->line("lalarm"); ?></th>
+					<th><?=ucfirst($this->lang->line("ldata")); ?></th>
+				</tr>
+			</thead>
+			<tbody>
+			<?php for($i=0; $i < count($data); $i++) { ?>
+				<tr <?=($i%2) ? "class='odd'" : "";?>>
+					<td><?=$i+1+$offset?></td>
+					<td><?php echo date("d/m/Y H:i:s", $data[$i]->gps_info_time_t+7*3600);?></td>
+					<td>(<?php echo $data[$i]->gps_info_alarm_alert; ?>) <?php echo $data[$i]->gps_info_alarm_alert_name; ?></td>
+					<td><?php echo $data[$i]->gps_info_alarm_data; ?></td>
+				</tr>
+			<?php } ?>
+			</tbody>
+			<tfoot>
+				<tr>
+					<td colspan="7"><?=$paging;?></td>
+				</tr>
+			</tfoot>
+		</table>

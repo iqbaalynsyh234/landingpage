@@ -1,0 +1,62 @@
+			<script>
+					function frmchangepass_onsubmit()
+					{
+						jQuery.post("<?=base_url()?>user/savepass/<?=$row->user_id?>", jQuery("#frmchangepass").serialize(),
+							function(r)
+							{
+								alert(r.message);
+								
+								if (r.error)
+								{								
+									return;									
+								}								
+								
+								jQuery("#dialog").dialog("close");
+							}
+							, "json"
+						);
+						
+						return false;
+					}
+				</script>
+			<form id="frmchangepass" onsubmit="javascript: return frmchangepass_onsubmit()">				
+				<table width="100%" cellpadding="3" class="tablelist">
+    			<tr>
+						<td><?=$this->lang->line("llogin");?></td>
+						<td>:</td>
+						<td><?=$row->user_login?></td>
+					</tr>
+    			<tr>
+    			<tr>
+						<td><?=$this->lang->line("lname");?></td>
+						<td>:</td>
+						<td><?=$row->user_name?></td>
+					</tr>
+    			<tr>    
+    				<?php if ($this->sess->user_type == 2) { ?>
+    			<tr>
+						<td><?=$this->lang->line("loldpassword");?></td>
+						<td>:</td>
+						<td><input type="password" name="oldpass" id="oldpass" value="" class="formdefault" /></td>
+					</tr>    				
+    			<?php } ?>				
+    			<tr>
+						<td><?=$this->lang->line("lnewpassword");?></td>
+						<td>:</td>
+						<td><input type="password" name="pass" id="pass" value="" class="formdefault" /></td>
+					</tr>
+    			<tr>
+						<td><?=$this->lang->line("lconfirm_password");?></td>
+						<td>:</td>
+						<td><input type="password" name="cpass" id="cpass" value="" class="formdefault" /></td>
+					</tr>					
+    			<tr>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+						<td>
+								<input type="submit" name="btnsave" id="btnsave" value=" Save " />
+								<input type="button" name="btncancel" id="btncancel" value=" Cancel " onclick="javascript:jQuery('#dialog').dialog('close');" />
+						</td>
+					</tr>					
+				</table>
+			</form>		

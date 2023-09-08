@@ -1,0 +1,25 @@
+		<h3><?php echo $this->lang->line("ldoor_status"); ?>: <?php echo $this->lang->line("lopened"); ?>(<?php echo $totalengine_opened; ?>) , <?php echo $this->lang->line("lclosed"); ?>(<?php echo $totalengine_closed; ?>)
+		<br />
+		<table width="100%" cellpadding="3" class="tablelist">
+			<thead>
+				<tr>
+					<th width="2%" style="text-align: right;">No.</td>
+					<th width="20%" style="text-align: left;"><?=$this->lang->line("lperiod"); ?></th>
+					<th colspan="2" style="text-align: left"><?=$this->lang->line("ldoor_status"); ?>&nbsp;&nbsp;</th>
+				</tr>
+			</thead>
+			<tbody>
+			<?php for($i=0; $i < count($rows); $i++) { ?>
+				<tr <?=($i%2) ? "class='odd'" : "";?>>
+					<td style="text-align: right;"><?=$i+1+$offset?></td>
+					<td><?=date('D M, jS Y H:i:s ', $rows[$i]->gps_info_time_t);?></td>
+					<td><?php echo ($rows[$i]->status1) ? $this->lang->line('lopened') : $this->lang->line('lclosed'); ?></td>
+				</tr>
+			<?php } ?>	
+			</tbody>
+			<tfoot>	
+				<tr>
+					<td colspan="4" style="text-align: left;"><?=$paging;?></td>
+				</tr>
+			</tfoot>
+		</table>

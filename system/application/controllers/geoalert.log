@@ -1,0 +1,3567 @@
+
+
+[2022-11-01 17:42:53] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:42:53] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (2): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:54] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:54] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:54] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:55] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 17:42:55] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 17:42:55] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (20): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:55] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (44): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:55] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- tidak ada sejak 01/11/2022 17:36:39
+
+
+[2022-11-01 17:42:56] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:56] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:56] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:58] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:58] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:58] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:58] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:59] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:59] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:42:59] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:59] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:42:59] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- tidak ada sejak 01/11/2022 17:30:43
+
+
+[2022-11-01 17:42:59] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 17:43:00] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 17:43:02] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:04] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (3): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:05] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 17:43:07] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 3 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:10] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:43:10] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 1 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 17:43:12] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:12] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:12] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:12] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:12] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:39:41
+
+
+[2022-11-01 17:43:13] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:16
+
+
+[2022-11-01 17:43:13] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:14] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (5): 1 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:16] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:16] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:16] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:16] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:16
+
+
+[2022-11-01 17:43:16] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:17] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:17] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:17] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:43:17] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:43:17] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:43:17
+
+
+[2022-11-01 17:49:07] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:49:08] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:21:01
+
+
+[2022-11-01 17:49:08] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:08] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:03
+
+
+[2022-11-01 17:49:09] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:10] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 17:49:10] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 17:49:10] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:36:36
+
+
+[2022-11-01 17:49:10] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:38:50
+
+
+[2022-11-01 17:49:10] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (5): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:11] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:11] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:11] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 1 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:13] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:14] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:14] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:14] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:14] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:14] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:49:14] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:15] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 1 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 17:49:17] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 2 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:20] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:20] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:20] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:20] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:20] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:20] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:21] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:49:21] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:21] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (8): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:21] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:21] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:21] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:22] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:47:06
+
+
+[2022-11-01 17:49:22] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:48:16
+
+
+[2022-11-01 17:49:22] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:22] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (16): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:23] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:23] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:23
+
+
+[2022-11-01 17:49:23] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:23
+
+
+[2022-11-01 17:49:23] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:23
+
+
+[2022-11-01 17:49:23] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:23
+
+
+[2022-11-01 17:49:24] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:24] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (12): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:24] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:24] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:24] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:24
+
+
+[2022-11-01 17:49:24] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:25] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:49:25] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:49:25] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:49:25] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:49:25] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:49:25] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:49:25] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:49:25] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:49:25
+
+
+[2022-11-01 17:56:10] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (4): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:56:12] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:21:01
+
+
+[2022-11-01 17:56:12] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:12] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:03
+
+
+[2022-11-01 17:56:12] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:14] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 17:56:14] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 17:56:14] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:36:36
+
+
+[2022-11-01 17:56:14] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:38:50
+
+
+[2022-11-01 17:56:14] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:14] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:14] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:14] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 2 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:17] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:17] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:17] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:17] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:17] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:18] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:56:18] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:18] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:18] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:18] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:18] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:19] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:19] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:19] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 17:56:21] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 4 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:25] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:25] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (8): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:26] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:26] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:26] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:26] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:26] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 17:56:27] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:27] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:27] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:27] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:27] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:27] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:51:41
+
+
+[2022-11-01 17:56:28] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:53:21
+
+
+[2022-11-01 17:56:28] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:28] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (14): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:30] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:30] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:30
+
+
+[2022-11-01 17:56:30] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:30
+
+
+[2022-11-01 17:56:30] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:30
+
+
+[2022-11-01 17:56:30] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:30
+
+
+[2022-11-01 17:56:30] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:31] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (8): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:31] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:31
+
+
+[2022-11-01 17:56:31] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:32] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:32] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:32] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 17:56:32] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 17:56:32] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 10:56:32
+
+
+[2022-11-01 18:00:10] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (2): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:00:11] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:21:01
+
+
+[2022-11-01 18:00:12] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:13] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:03
+
+
+[2022-11-01 18:00:13] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:53:21
+
+
+[2022-11-01 18:00:15] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 18:00:15] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 18:00:15] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (12): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:15] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:15] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- tidak ada sejak 01/11/2022 17:50:54
+
+
+[2022-11-01 18:00:16] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:16] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:16] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 2 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:19] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:19] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:00:20] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:20] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:21] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:21] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:21] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:21] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:21] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 3 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:24] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:24] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:24] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:00:25] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:25] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:26] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:26] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:56:43
+
+
+[2022-11-01 18:00:26] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 17:53:21
+
+
+[2022-11-01 18:00:26] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:26] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (4): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:28] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:28] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:28
+
+
+[2022-11-01 18:00:28] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:28
+
+
+[2022-11-01 18:00:29] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:29] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:29] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:29
+
+
+[2022-11-01 18:00:29] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:30] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:30] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:30] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:00:30] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:00:30] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:00:30
+
+
+[2022-11-01 18:07:06] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:07:07] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:21:01
+
+
+[2022-11-01 18:07:08] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:08] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:03
+
+
+[2022-11-01 18:07:09] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:10] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 18:07:10] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 18:07:10] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:56:08
+
+
+[2022-11-01 18:07:10] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (9): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:10] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (2): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:11] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:11] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:11] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 3 second
+----- lama check area: 2 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:16] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:16] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:16] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:16] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:16] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:17] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:07:17] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:17] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:17] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:18] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:18] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:18] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:18] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:18] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:19] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 3 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:23] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:07:24] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:24] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 18:00:06
+
+
+[2022-11-01 18:07:24] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:24] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:24] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:24] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 18:04:34
+
+
+[2022-11-01 18:07:25] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 18:03:43
+
+
+[2022-11-01 18:07:25] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:25] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (8): 3 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:28] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:28] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:28
+
+
+[2022-11-01 18:07:28] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:28
+
+
+[2022-11-01 18:07:28] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:28
+
+
+[2022-11-01 18:07:28] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:28
+
+
+[2022-11-01 18:07:28] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:28] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:28
+
+
+[2022-11-01 18:07:28] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (14): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:29] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:29
+
+
+[2022-11-01 18:07:29] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:29] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:30] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:30] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:07:30] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:07:30] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:07:30
+
+
+[2022-11-01 18:14:14] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:14:15] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:21:01
+
+
+[2022-11-01 18:14:15] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (4): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:15] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:03
+
+
+[2022-11-01 18:14:15] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:17] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 18:14:17] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 18:14:17] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:56:08
+
+
+[2022-11-01 18:14:17] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:57:17
+
+
+[2022-11-01 18:14:18] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- tidak ada sejak 01/11/2022 18:03:36
+
+
+[2022-11-01 18:14:19] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:19] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:19] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 2 second
+----- lama check area: 2 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:23] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:24] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:24] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:24] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:24] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:24] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:14:24] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:25] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:25] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:25] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 18:14:26] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:26] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (8): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:27] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:27] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (8): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 18:14:28] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (11): 4 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:32] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:33] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (11): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:33] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (9): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:33] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (9): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:33] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (9): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:34] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:34] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:14:34] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (11): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:34] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (15): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:34] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (11): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:35] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:35] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:35] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 18:09:44
+
+
+[2022-11-01 18:14:35] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 18:09:14
+
+
+[2022-11-01 18:14:35] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:35] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (10): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:37] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:37] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:37
+
+
+[2022-11-01 18:14:37] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:37
+
+
+[2022-11-01 18:14:37] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:37
+
+
+[2022-11-01 18:14:37] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:37
+
+
+[2022-11-01 18:14:37] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:38] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:38
+
+
+[2022-11-01 18:14:38] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 18:14:39] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:39
+
+
+[2022-11-01 18:14:39] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (8): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:39] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (7): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:40] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:40
+
+
+[2022-11-01 18:14:40] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:14:40] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:40
+
+
+[2022-11-01 18:14:40] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (10): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 18:14:41] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:41
+
+
+[2022-11-01 18:14:41] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:41
+
+
+[2022-11-01 18:14:41] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:41
+
+
+[2022-11-01 18:14:41] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:41
+
+
+[2022-11-01 18:14:41] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:41
+
+
+[2022-11-01 18:14:41] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:14:41
+
+
+[2022-11-01 18:21:02] 00 862723051434409@VT100 B5216TGL
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (3): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:21:05] 01 353701094379902@GT06 B9480SGC
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 02/11/2022 00:21:01
+
+
+[2022-11-01 18:21:05] 02 862723051482762@VT100 B243PA
+database: GPS_VT200_16001
+----- check to current
+----- lama ambil data gps (2): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:06] 03 0000000000@ST1 B2371SKZ (B)
+database: GPS_ST1_9001
+----- check to current
+----- tidak ada sejak 01/11/2022 17:42:03
+
+
+[2022-11-01 18:21:06] 04 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (1): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:08] 05 353701096917857@GT06 E6
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 19:58:11
+
+
+[2022-11-01 18:21:08] 06 353701096972282@GT06 E7
+database: GPS_5100
+----- check to current
+----- tidak ada sejak 01/11/2022 22:56:04
+
+
+[2022-11-01 18:21:08] 07 863014540065984@GT06 B9106SCF
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (32): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:08] 08 863014540065941@GT06 B9113SXU
+database: GPS_5100
+----- check to current
+----- lama ambil data gps (30): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:08] 09 002100003606@T5 B 9964 SEH
+database: GPS_T5_18000
+----- check to current
+----- tidak ada sejak 01/11/2022 18:03:36
+
+
+[2022-11-01 18:21:08] 10 002100003557@T5 B 9970 UEH
+database: GPS_T5_18000
+----- check to current
+----- lama ambil data gps (3): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:08] 11 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:09] 12 869926040525665@VT200 BK8951MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 2 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:12] 13 869926040525830@VT200 BK8284MQ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:12] 14 869926040762375@VT200 BH8134MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:12] 15 869926040526325@VT200 BK9306DB
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:12] 16 869926040526069@VT200 BK8658XZ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:12] 17 869926040526481@VT200 BK8620MR
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:13] 18 869926040592509@VT200 BM8540TW
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:21:13] 19 869926040812790@VT200 BK8737MO
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:13] 20 869926040812774@VT200 BK9337MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:13] 21 869926040813244@VT200 BK8948MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (1): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:13] 22 869926040525699@VT200 BK8188FT
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:14] 23 869926040525269@VT200 BK9060LJ
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:14] 24 869926040762177@VT200 BK9462MP
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:14] 25 869926040525707@VT200 BK8038EI
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:14] 26 869926040526226@VT200 BK9501CY
+database: GPS_VT200_RAI_KJL_28000
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:14] 27 869926040526739@VT200 BK8179CC
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 4 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:18] 28 869926040524411@VT200 BK8869MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:18] 29 869926040525558@VT200 B9478VCA
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:18] 30 869926040923787@VT200 BK9130CO
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:18] 31 869926040525525@VT200 BK8899PV
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:18] 32 869926040524577@VT200 BK9217CL
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:19] 33 869926040820421@VT200 BK8950MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:19] 34 869926040524452@VT200 BK8340MQ
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:21:19] 35 869926040762862@VT200 BM8253JU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:19] 36 869926040526507@VT200 BK9346DB
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:19] 37 869926040525681@VT200 BK8636YG
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:20] 38 869926040524981@VT200 BK8953MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:20] 39 869926040592426@VT200 BK8946MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:20] 40 9172624239@ST2 B 9008 WEH
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 18:20:41
+
+
+[2022-11-01 18:21:20] 41 9172624345@ST2 B 9915 UEJ
+database: GPS_ST2_9002
+----- check to current
+----- tidak ada sejak 01/11/2022 18:16:40
+
+
+[2022-11-01 18:21:20] 42 3009079767@ST1 B2995FFG
+database: GPS_ST1_9001
+----- check to current
+----- lama ambil data gps (2): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:20] 43 58042081194904@GT08S BK8495MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (11): 2 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:22] 44 867717046709094@VT200 BK8949MP
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:22] 45 006100001612@T5 BK8945MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:22
+
+
+[2022-11-01 18:21:22] 46 869926046512436@VT200 BK8144MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:22
+
+
+[2022-11-01 18:21:22] 47 006100001604@T5 BK8807ND
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:22
+
+
+[2022-11-01 18:21:22] 48 006100001601@T5 BK9344DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:22
+
+
+[2022-11-01 18:21:22] 49 869926046529984@VT200 BK8145MR
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (6): 1 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:23] 50 006100001608@T5 BK8960MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 51 006100001584@T5 BK9937CD
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 52 006100001587@T5 BK9468LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 53 006100001577@T5 BK9307DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 54 006100001566@T5 BK8725DC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 55 006100001609@T5 BK8959MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 56 860294046457949@VT200 BH8491BU
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 57 006100001572@T5 BK9304DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 58 006100001571@T5 BK8903MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 59 006100001570@T5 BK9660LJ
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 60 58042081202129@GT08S BK8946MQ
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih didalam area geofence
+
+
+[2022-11-01 18:21:23] 61 006100001585@T5 BK9305DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:23
+
+
+[2022-11-01 18:21:23] 62 58042081195266@GT08S BK9077CB
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:23] 63 58042081195365@GT08S B9577GXR
+database: GPS_RAI_KJL_GT08S_38000
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 1 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:24] 64 006100001602@T5 BK8171AC
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:24
+
+
+[2022-11-01 18:21:24] 65 860294045109343@VT200 BK8606CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+----- posisi kendaraan masih di luar area geofence
+
+
+[2022-11-01 18:21:24] 66 006100001573@T5 BK9345DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:24
+
+
+[2022-11-01 18:21:24] 67 860294046458723@VT200 BK8895CI
+database: GPS_VT200_RAI_KJL_28001
+----- check to current
+----- lama ambil data gps (5): 0 second
+----- lama check area: 0 second
+200=== SENT TELEGRAM OK
+
+
+[2022-11-01 18:21:25] 68 006100001565@T5 BK9347DB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:25
+
+
+[2022-11-01 18:21:25] 69 006100003018@T5 BK8423EB
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:25
+
+
+[2022-11-01 18:21:25] 70 006100001583@T5 BK8736MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:25
+
+
+[2022-11-01 18:21:25] 71 006100001588@T5 BK8738MO
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:25
+
+
+[2022-11-01 18:21:25] 72 006100001574@T5 BK9275CW
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:25
+
+
+[2022-11-01 18:21:25] 73 006100001578@T5 BK8821MP
+----- check to current
+----- tidak ada sejak 01/11/2022 11:21:25
